@@ -4,12 +4,12 @@
 This study was done to check sustainability of a year round business of the surf and ice cream shop year round.  This was done by checking the temperate statistics during the december and june months.   
 
 ## Results
-Below are two pictures showing the results of the june and december temperature statistics in fahrenheit.
-June /n
-![image](https://user-images.githubusercontent.com/92898919/148102599-a57cc984-5c3a-4604-bfb3-edb1ddafdb10.png)
-/n
-December /n
-![image](https://user-images.githubusercontent.com/92898919/148102644-6718641e-ad74-4dfd-9969-6dbc37e7ec09.png)
+Below are two pictures showing the results of the june and december temperature statistics in fahrenheit. <br />
+June <br />
+![image](https://user-images.githubusercontent.com/92898919/148102599-a57cc984-5c3a-4604-bfb3-edb1ddafdb10.png) <br />
+
+December <br />
+![image](https://user-images.githubusercontent.com/92898919/148102644-6718641e-ad74-4dfd-9969-6dbc37e7ec09.png) <br />
 
 ## Summary of Results
 * the mean temperate is within 4 degrees
